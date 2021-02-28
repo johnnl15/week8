@@ -1,0 +1,4 @@
+AdvancedInformatics2021Directory/johnnl15/johnnl15/mydata/DNAseqout/rawdata/ADL06
+AdvancedInformatics2021Directory/johnnl15/johnnl15/mydata/DNAseqout/rawdata/ADL09
+AdvancedInformatics2021Directory/johnnl15/johnnl15/mydata/DNAseqout/rawdata/ADL10
+AdvancedInformatics2021Directory/johnnl15/johnnl15/mydata/DNAseqout/rawdata/ADL14
